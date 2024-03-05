@@ -34,4 +34,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=beeoni&show_icons=true&locale=en&layout=compact" alt="beeoni" /></p>
 
-<img align="right" alt="Coding" width="400" src="https://www.canva.com/design/DAF-oh2MRjM/vVJ-E1mfxDp7O4OiAGxE0w/view">       
+<img align="left" alt="Coding" width="400" src="https://www.canva.com/design/DAF-oh2MRjM/vVJ-E1mfxDp7O4OiAGxE0w/view">       
