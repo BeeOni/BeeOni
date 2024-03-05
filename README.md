@@ -1,4 +1,4 @@
-![BeeOni's GitHub Banner](https://www.canva.com/design/DAF-ohBrPt0/1a2N03gxr-OGlLUqNszf6A/view)    
+![Content Creator LinkedIn Banner ](https://github.com/BeeOni/BeeOni/assets/143199585/5b5942ba-03b7-4bf8-9124-dca63bf73457)    
 <h1 align="center">Hi 👋, I'm Bolanle Onilogbo</h1>
 <h3 align="center">A passionate and growing frontend developer with experience in frontend technologies like HTML, CSS, Javascript, and React. Always ready to learn something new and take on challenges in the tech world.</h3>
 
@@ -34,4 +34,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=beeoni&show_icons=true&locale=en&layout=compact" alt="beeoni" /></p>
 
-<img align="left" alt="Coding" width="400" src="https://www.canva.com/design/DAF-oh2MRjM/vVJ-E1mfxDp7O4OiAGxE0w/view">       
+<img align="left" alt="Coding" width="400" src="https://github.com/BeeOni/BeeOni/assets/143199585/9be40f6d-5ac5-483d-b48a-201484a12405">
