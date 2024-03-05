@@ -1,6 +1,6 @@
 ![BeeOni's GitHub Banner](https://www.canva.com/design/DAF-ohBrPt0/1a2N03gxr-OGlLUqNszf6A/view)    
 <h1 align="center">Hi 👋, I'm Bolanle Onilogbo</h1>
-<h3 align="center">A passionate and growing frontend developer with experience in frontend technologies like HTML, CSS and Ja.</h3>
+<h3 align="center">A passionate and growing frontend developer with experience in frontend technologies like HTML, CSS, Javascript, and React. Always ready to learn something new and take on challenges in the tech world.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beeoni&label=Profile%20views&color=0e75b6&style=flat" alt="beeoni" /> </p>
 
