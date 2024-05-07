@@ -1,6 +1,6 @@
 ![Content Creator LinkedIn Banner ](https://github.com/BeeOni/BeeOni/assets/143199585/5b5942ba-03b7-4bf8-9124-dca63bf73457)    
 <h1 align="center">Hi 👋, I'm Bolanle Onilogbo</h1>
-<h3 align="center">A passionate and growing frontend developer with experience in frontend technologies like HTML, CSS, Javascript, and React. Always ready to learn something new and take on challenges in the tech world.</h3>
+<h3 align="center">A passionate and growing frontend and backend developer with experience in frontend technologies like HTML, CSS, Javascript, and React, and backend technologies such as Python. Always ready to learn something new and take on challenges in the tech world.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beeoni&label=Profile%20views&color=0e75b6&style=flat" alt="beeoni" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Frontend and Backend projects**
 
-- 👨‍💻 All of my projects are available at [(Currently working on it)]((Currently working on it))
+- 👨‍💻 All of my projects are available at [(Currently working on it)]
 
 - 💬 Ask me about **JavaScript & React**
 
